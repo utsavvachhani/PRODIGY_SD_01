@@ -15,4 +15,25 @@ task - output - Pictures :
 ![1 4](https://github.com/user-attachments/assets/9185a703-db24-4af9-a426-e9cf4aec5921)
 
 
-"Please ensure that your system is supported by Python with Flask."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**"Please ensure that your system is supported by Python with Flask."**
