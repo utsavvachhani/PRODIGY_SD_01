@@ -26,19 +26,19 @@ Technologies Used**
     - Python's standard GUI toolkit used to create the user interface.
 
 **How to Use**
-    1. Clone the Repository:
-    ```html
-        git clone https://github.com/your-username/temperature-conversion-program.git
-        cd temperature-conversion-program
-    ```
-    2. Run the Program: 
-    ```html
-        python temperature_converter.py
-    ```
-    3. Use the Interface:
-        - Add support for additional temperature scales.
-        - Implement advanced error handling and edge case management.
-        - Enhance the GUI with more interactive elements and improved aesthetics.
+1. Clone the Repository:
+ ```html
+ git clone https://github.com/your-username/temperature-conversion-program.git
+ cd temperature-conversion-program
+ ```
+2. Run the Program: 
+ ```html
+     python temperature_converter.py
+ ```
+3. Use the Interface:
+- Add support for additional temperature scales.
+- Implement advanced error handling and edge case management.
+- Enhance the GUI with more interactive elements and improved aesthetics.
 
 **License **
  This project is licensed under the MIT License - see the LICENSE file for details.
