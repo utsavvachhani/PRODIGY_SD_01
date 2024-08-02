@@ -53,26 +53,3 @@ task - output - Pictures :
 ![1 3](https://github.com/user-attachments/assets/4384b3dc-a7f5-4c06-a6ed-231cc936c8e8)
 ![1 4](https://github.com/user-attachments/assets/9185a703-db24-4af9-a426-e9cf4aec5921)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**"Please ensure that your system is supported by Python with Flask."**
