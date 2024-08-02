@@ -40,8 +40,9 @@ Technologies Used**
 - Implement advanced error handling and edge case management.
 - Enhance the GUI with more interactive elements and improved aesthetics.
 
-**License **
- This project is licensed under the MIT License - see the LICENSE file for details.
+
+**License**
+- This project is licensed under the MIT License - see the LICENSE file for details.
 
 **video** : https://utsavvachhani.github.io/PRODIGY_SD_01/1st%20task.mp4
 
