@@ -25,6 +25,10 @@ Technologies Used**
 - Tkinter:
     - Python's standard GUI toolkit used to create the user interface.
 
+```html
+<clipboard-copy for="blob-path">Copy</clipboard-copy>
+<div id="blob-path">src/index.js</div>
+```
 **video** : https://utsavvachhani.github.io/PRODIGY_SD_01/1st%20task.mp4
 
 task - output - Pictures : 
