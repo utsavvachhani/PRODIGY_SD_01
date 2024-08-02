@@ -5,8 +5,8 @@ internship task at the Prodigy InfoTech.
 
 - Definition :  Create a program that converts temperatures between Celsius, Fahrenheit, and Kelvin scales. The program should prompt the user to input a temperature value and the original unit of measurement. It should then convert the temperature to the other two units and display the converted values to the user. For example, if the user enters a temperature of 25 degrees Celsius, the program should convert it to Fahrenheit and Kelvin, and present the converted values as outputs.
 
-**Overview**
-This project is a Temperature Conversion Program developed in Python, designed to convert temperature values between Celsius, Fahrenheit, and Kelvin scales. The program features a user-friendly graphical user interface (GUI) built with Tkinter, making it easy for users to input values and view converted results.
+**Overview**: 
+    This project is a Temperature Conversion Program developed in Python, designed to convert temperature values between Celsius, Fahrenheit, and Kelvin scales. The program features a user-friendly graphical user interface (GUI) built with Tkinter, making it easy for users to input values and view converted results.
 
 **Features**
 - User-Friendly Interface:
