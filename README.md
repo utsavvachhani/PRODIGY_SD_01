@@ -28,7 +28,7 @@ Technologies Used**
 **How to Use**
 1. Clone the Repository:
  ```html
- git clone https://github.com/your-username/temperature-conversion-program.git
+ git clone https://github.com/utsavvachhani/temperature-conversion-program.git
  cd temperature-conversion-program
  ```
 2. Run the Program: 
